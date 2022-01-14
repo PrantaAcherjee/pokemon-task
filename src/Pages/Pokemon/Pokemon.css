@@ -1,10 +1,9 @@
-.background{
+.bg{
     background-image: url('https://images.unsplash.com/photo-1627856608109-9cd57d12966c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cG9rZW1vbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center center;
-     min-height: 100vh;
-     object-fit: cover;
+    object-fit: cover;
+    height: 600px;
+    border-radius: 20px;
 }
-
- 
